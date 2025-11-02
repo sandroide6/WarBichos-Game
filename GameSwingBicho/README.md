@@ -347,8 +347,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Portfolio Project**
 
-- GitHub: [@tu-usuario](https://github.com/tu-usuario)
-- LinkedIn: [Tu Nombre](https://linkedin.com/in/tu-perfil)
+- GitHub: [@sandroide6](https://github.com/sandroide6)
+
 
 ## 🙏 Acknowledgments
 
